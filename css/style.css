@@ -1,0 +1,176 @@
+ #works
+ {
+  background-color: #F4F4F4;
+}
+#donate-me
+{
+  background-color:#F4F4F4;
+}
+#groups-me
+{
+  background-color: #F4F4F4;
+}
+#groups-me .card
+{
+  box-shadow: 0 0 30px rgba(64,64,64,.1);
+}
+.item img
+{
+  box-shadow: 0 0 30px rgba(64,64,64,.1);
+}
+
+#about-me
+{
+  background-color: #1ABC9C;
+  color:white;
+}
+.cizgibeyaz
+{
+  width: 100%;
+  max-width: 250px;
+  height: 7px;
+  background-color: white;
+  border-radius: 10px;
+  border-color: #2c3e50 !important;
+
+}
+.cizgisiyah
+{
+  width: 100%;
+  max-width: 250px;
+  height: 7px;
+  background-color: black;
+  border-radius: 10px;
+  border-color: #2c3e50 !important;
+}
+.hizala
+{
+ display: -webkit-box;
+ display: -ms-flexbox;
+ display: flex;
+ -webkit-box-pack: center;
+ -ms-flex-pack: center;
+ justify-content: center;
+ -webkit-box-align: center;
+ -ms-flex-align: center;
+ align-items: center;
+}
+
+
+.sabithizala
+{
+  margin-top:79px;
+}
+
+.soluklastir:hover{
+ cursor:pointer;
+ opacity: 0.5;
+
+}
+.soluklastir img
+{
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+#contact-me
+{
+  background-color: #1ABC9C;
+  color:white;
+}
+#contact-me .row i 
+{
+
+  color:#FF0000;
+}
+#contact-me .row a
+{
+  color:#fff; 
+  text-decoration: none;: 
+}
+
+#footer
+{
+  background-color: #2C3E50;
+  color:white;
+}
+
+
+
+#imza{
+  width:100%;
+  margin-bottom: : :0px;
+  padding-bottom: : :0px;
+  position: absolute;
+  
+}
+
+.sosyal
+{
+  margin-bottom: 25px;
+
+  
+
+
+}
+#footer a .youtube
+{
+ color:#fff;
+ background-color: #FF0000;
+ display: inline-block;
+ border-radius: 60px;
+ box-shadow: 0px 0px 2px #888;
+ padding: 10px 10px;
+}
+#footer a .linkedin
+{
+  color:#fff;
+  background-color: #0073B0;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 10px 10px;
+}
+#footer a .facebook
+{
+  color:#fff;
+  background-color: #4267B2;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 10px 10px;
+
+}
+#footer a .twitter
+{
+  color:#fff;
+  background-color: #1DA1F2;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 10px 10px;
+}
+#footer a .insta
+{
+  color:#fff;
+  background-color: #D12F9A;
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 10px 10px;
+}
+#footer a .github
+{
+  color:#fff;
+  display: inline-block;
+  background-color: #000;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px #888;
+  padding: 10px 10px;
+}
+
+#anaNav
+{
+  background-color: #2C3E50 !important; 
+  color:white !important;
+}
